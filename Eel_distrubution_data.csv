@@ -1,0 +1,114 @@
+Family,species,time_utc,time_local,day_night,depth,dive,cruise,eddy,behavior,temperature_celsius,salinity_ppt,dissolved_oxygen_ml_L,fluorescence_mgm3,turbidity_NTU,DensitySigmaT,latitude,longitude,activity,orientation
+Nemichthyidae,nemichthyidae,8:32:51,0:32:51,d,767,OY38,C5e,no eddy,swim down,5.5344,34.5507,0.1823,,,27.235,11.016023,-116.134209,r,v
+Serrivomeridae,serrivomeridae,7:39:25,23:39:25,n,771,OY20,C5b,eddy end,rest down,5.834,34.5424,0.2076,0.022,0.0246,27.2737,10.85679,-116.150493,r,v
+Nemichthyidae,nemichthyidae,4:10:38,20:10:38,n,772,OY34,C5e,no eddy,swim down,5.4066,34.5524,0.3684,,,27.2724,10.36982,-117.17751,r,v
+Nemichthyidae,nemichthyidae,9:29:46,1:29:46,d,776,OY29,C5e,no eddy,rest down,5.3975,34.5493,0.4587,0.0568,0.0319,27.2743,10.332249,-117.197999,r,v
+Nemichthyidae,nemichthyidae,13:16:40,5:16:40,n,785,OY08,C5b,no eddy,rest down,5.8911,34.5519,0.1428,0.0197,0.0362,27.212,10.906014,-116.213418,r,v
+Nemichthyidae,nemichthyidae,4:25:13,20:25:13,d,1114,OY32,C5e,no eddy,rest down,4.0326,34.5755,1.0432,0.0439,0.0194,27.4443,10.328735,-117.170213,r,v
+Serrivomeridae,serrivomeridae,4:25:49,20:25:49,n,1124,OY36,C5e,no eddy,rest down,4.2005,34.569,0.9789,,,27.431,10.3735,-117.17053,r,v
+Serrivomeridae,serrivomeridae,9:00:20,1:00:20,d,1200,OY37,C5e,no eddy,rest down,3.7425,34.5811,1.1136,,,27.3968,10.99753,-116.14156,r,v
+Serrivomeridae,serrivomeridae,0:32:42,16:32:42,d,1201,OY18,C5b,eddy end,rest up,4.0817,34.5691,1.0373,0.022,0.0268,27.4348,10.334452,-117.194552,r,v
+Serrivomeridae,serrivomeridae,0:32:59,16:32:59,n,1201,OY35,C5e,no eddy,rest up,3.7859,34.5838,1.1598,,,27.4778,10.336718,-117.197059,r,v
+Serrivomeridae,serrivomer,23:26:30,15:26:30,n,1203,OY19,C5b,eddy end,rest up,4.0681,34.5694,1.0177,0.0188,0.0252,27.4365,10.362976,-117.17304,r,v
+Serrivomeridae,serrivomeridae,17:22:20,9:22:20,n,1221,OY38,C5e,no eddy,rest down,3.5257,34.5868,1.2324,,,27.5077,11.01,-116.14678,r,v
+Serrivomeridae,serrivomeridae,1:46:16,17:46:16,d,1280,OY29,C5e,no eddy,rest down,3.5875,34.5922,1.2607,0.0677,0.0249,27.505,10.332463,-117.198142,r,v
+Serrivomeridae,serrivomeridae,6:57:04,22:57:04,n,1315,OY38,C5e,no eddy,rest up,3.4558,34.5885,1.2713,,,27.518,11.006907,-116.147654,r,v
+Serrivomeridae,serrivomeridae,1:44:54,17:44:54,d,1502,OY39,C5e,no eddy,swim up,2.9905,34.6088,1.4815,,,27.5737,10.983262,-116.225907,r,v
+Serrivomeridae,serrivomeridae,19:34:33,11:34:33,d,1560,OY33,C5e,no eddy,rest up,2.9513,34.61509,1.57352,0.0371,0.0089,27.5598,10.32446,-117.17735,r,v
+Serrivomeridae,serrivomeridae,16:38:29,8:38:29,d,648,OY29,C5e,no eddy,rest up,6.1993,34.5522,0.099,0.0563,0.0176,27.1733,10.332216,-117.197985,s,v
+Serrivomeridae,serrivomeridae,6:55:43,22:55:43,d,650,OY35,C5e,no eddy,rest down,6.2564,34.5552,0.1077,,,27.1684,10.315445,-117.207631,s,v
+Nemichthyidae,nemichthyidae,22:36:30,14:36:30,n,657,OY35,C5e,no eddy,swim down,6.0519,34.5549,0.129,,,27.1944,10.315451,-117.200109,s,v
+Nemichthyidae,nemichthyidae,1:40:51,17:40:51,d,663,OY34,C5e,no eddy,rest horizontal,6.0733,34.5518,0.1392,,,27.1883,10.37035,-117.18394,s,v
+Nemichthyidae,nemichthyidae,6:38:41,22:38:41,n,665,OY19,C5b,eddy end,swim horizontal,6.925,34.562,0.0594,0.0197,0.031,27.0841,10.354228,-117.161814,s,v
+Serrivomeridae,serrivomeridae,12:30:42,4:30:42,d,675,OY18,C5b,eddy end,rest up,6.7962,34.5621,0.0701,0.0206,0.035,27.334,10.345303,-117.195028,s,v
+Nemichthyidae,nemichthyidae,9:02:09,1:02:09,n,685,OY35,C5e,no eddy,swim up,5.966,34.5508,0.172,,,27.203,10.337042,-117.19724,s,v
+Nemichthyidae,nemichthyidae,10:11:52,2:11:52,n,689,OY28,C5e,no eddy,swim down,5.9377,34.5462,0.1492,0.0357,0.0204,27.2017,10.331433,-117.198138,s,v
+Serrivomeridae,serrivomeridae,9:05:48,1:05:48,n,700,OY31,C5e,no eddy,swim up,5.8847,34.5575,0.1686,0.0792,0.0261,27.2176,10.356705,-117.160886,s,v
+Nemichthyidae,nemichthyidae,8:53:39,0:53:39,n,701,OY32,C5e,no eddy,rest down,5.959,34.552,0.14959,0.0535,0.0232,27.2041,10.339852,-117.160858,s,v
+Nemichthyidae,nemichthyidae,8:55:13,0:55:13,n,701,OY32,C5e,no eddy,rest horizontal,5.9607,34.5514,0.14271,0.04161,0.02581,27.2201,10.33972,-117.160813,s,v
+Nemichthyidae,nemichthyidae,10:21:53,2:21:53,n,701,OY32,C5e,no eddy,rest horizontal,5.9245,34.5515,0.15311,0.05453,0.03408,27.2044,10.32861,-117.172432,s,v
+Nemichthyidae,nemichthyidae,8:29:48,0:29:48,n,701,OY32,C5e,no eddy,rest down,5.8323,34.5512,0.18231,0.05449,0.0319,27.2192,10.339588,-117.161764,s,v
+Nemichthyidae,nemichthyidae,0:39:52,16:39:52,n,707,OY39,C5e,no eddy,rest horizontal,5.9893,34.5548,0.098,,,27.1983,10.982609,-116.227495,s,v
+Nemichthyidae,nemichthyidae,8:35:17,0:35:17,d,785,OY38,C5e,no eddy,swim horizontal,5.4796,34.5543,0.1846,,,27.2303,11.015678,-116.134412,s,v
+Nemichthyidae,nemichthyidae,13:34:21,5:34:21,n,791,OY08,C5b,no eddy,rest down,5.7908,34.5503,0.1649,0.0197,0.0434,27.2245,10.906105,-116.213582,s,v
+Serrivomeridae,serrivomeridae,17:47:23,9:47:23,n,793,OY20,C5b,eddy end,rest down,5.6815,34.5388,0.2029,0.0211,0.0318,27.2282,10.856702,-116.150434,s,v
+Serrivomeridae,serrivomeridae,20:27:27,12:27:27,n,810,OY09,C5b,no eddy,rest up,5.8205,34.5527,0.1593,,0.0399,27.2672,10.817179,-116.239491,s,v
+Serrivomeridae,serrivomeridae,9:58:49,1:58:49,d,812,OY39,C5e,no eddy,rest down,5.2344,34.5499,0.3339,,,27.2912,10.980923,-116.222594,s,v
+Serrivomeridae,serrivomeridae,17:24:37,9:24:37,d,813,OY37,C5e,no eddy,rest down,5.5621,34.5543,0.2188,,,27.2551,10.99641,-116.1419,s,v
+Nemichthyidae,nemichthyidae,0:51:10,16:51:10,d,814,OY21,C5b,eddy end,rest horizontal,5.6903,34.5436,0.2562,0.1944,0.0277,27.2308,10.99256667,-116.3577,s,v
+Nemichthyidae,avocettina,0:14:56,16:14:56,d,819,OY39,C5e,no eddy,swim down,5.2043,34.5513,0.2695,,,27.2956,10.980944,-116.222687,s,v
+Serrivomeridae,serrivomeridae,4:18:02,20:18:02,n,822,OY35,C5e,no eddy,rest down,5.2228,34.5533,0.4298,,,27.2942,10.324241,-117.200139,s,v
+Serrivomeridae,serrivomer,17:25:58,9:25:58,d,835,OY39,C5e,no eddy,rest down,5.1136,34.5508,0.3457,,,27.3052,10.980954,-116.222831,s,v
+Nemichthyidae,nemichthyidae,5:24:38,21:24:38,n,839,OY16,C5b,eddy,rest down,5.7384,34.5518,0.2229,0.0188,0.0306,27.2314,10.427345,-117.171133,s,v
+Serrivomeridae,serrivomeridae,17:28:34,9:28:34,n,840,OY20,C5b,eddy end,rest down,5.3734,34.5424,0.3646,0.0179,0.0184,27.2685,10.856469,-116.150175,s,v
+Serrivomeridae,serrivomeridae,17:29:36,9:29:36,n,848,OY16,C5b,eddy,rest down,5.6662,34.5515,0.2492,0.0197,0.0338,27.2401,10.426211,-117.172136,s,v
+Nemichthyidae,nemichthyidae,0:44:06,16:44:06,n,849,OY20,C5b,eddy end,rest down,5.3449,34.5426,0.4488,0.0211,0.0309,27.2721,10.856427,-116.150121,s,v
+Serrivomeridae,serrivomeridae,10:00:43,2:00:43,n,849,OY20,C5b,eddy end,swim up,5.3353,34.5433,0.4617,0.022,0.0246,27.2737,10.85629,-116.149959,s,v
+Serrivomeridae,serrivomeridae,0:45:17,16:45:17,n,849,OY36,C5e,no eddy,rest up,5.4106,34.5529,0.3756,,,27.2803,10.37351,-117.17053,s,v
+Nemichthyidae,nemichthyidae,8:32:18,0:32:18,n,850,OY15,C5b,eddy begin,rest horizontal,5.7158,34.5503,0.216,0.0192,0.031,27.1739,10.4285,-117.14783,s,v
+Serrivomeridae,serrivomeridae,5:54:40,21:54:40,d,850,OY18,C5b,eddy end,swim horizontal,5.6651,34.5517,0.2458,0.0197,0.0217,27.2404,10.340266,-117.195004,s,v
+Serrivomeridae,serrivomeridae,0:36:36,16:36:36,n,850,OY19,C5b,eddy end,rest up,5.6734,34.5527,0.2208,0.0188,0.0318,27.2308,10.357983,-117.167456,s,v
+Serrivomeridae,serrivomeridae,10:02:49,2:02:49,n,850,OY19,C5b,eddy end,rest down,5.6745,34.5508,0.2259,0.016,0.0278,27.2292,10.357955,-117.167414,s,v
+Serrivomeridae,serrivomeridae,11:40:15,3:40:15,n,850,OY20,C5b,eddy end,rest up,5.3427,34.5406,0.4469,0.0188,0.0269,27.2707,10.856347,-116.150043,s,v
+Serrivomeridae,serrivomeridae,5:49:33,21:49:33,n,851,OY32,C5e,no eddy,rest up,5.0168,34.5558,0.55529,0.04123,0.02831,27.3211,10.339665,-117.161831,s,v
+Serrivomeridae,stemonidium hypomelas,19:43:35,11:43:35,d,851,OY39,C5e,no eddy,rest up,5.0443,34.5525,0.3599,,,27.3116,10.981818,-116.22394,s,v
+Nemichthyidae,nemichthyidae,1:42:51,17:42:51,n,852,OY08,C5b,no eddy,rest horizontal,5.5367,34.5502,0.2633,0.0179,0.0423,27.2548,10.906631,-116.211582,s,v
+Serrivomeridae,serrivomeridae,9:59:23,1:59:23,d,856,OY34,C5e,no eddy,rest up,5.0992,34.5563,0.5141,,,27.3114,10.37009,-117.18378,s,v
+Serrivomeridae,serrivomeridae,3:43:56,19:43:56,d,876,OY34,C5e,no eddy,rest up,4.9614,34.5565,0.5964,,,27.3274,10.37007,-117.1838,s,v
+Nemichthyidae,nemichthyidae,7:44:45,23:44:45,n,879,OY09,C5b,no eddy,rest down,5.4502,34.5525,0.2508,,0.0399,27.2897,10.818204,-116.238667,s,v
+Serrivomeridae,serrivomer,8:27:05,0:27:05,d,881,OY39,C5e,no eddy,rest down,4.8037,34.5554,0.4577,,,27.3421,10.981397,-116.227741,s,v
+Serrivomeridae,serrivomeridae,16:35:36,8:35:36,n,883,OY09,C5b,no eddy,rest down,5.4249,34.5521,0.267,,0.0377,27.2897,10.818181,-116.238618,s,v
+Nemichthyidae,nemichthyidae,17:49:39,9:49:39,n,895,OY30,C5e,no eddy,rest down,4.9479,34.5542,0.6125,0.0476,0.0271,27.3303,10.329098,-117.19948,s,v
+Serrivomeridae,serrivomeridae,0:54:58,16:54:58,n,925,OY16,C5b,eddy,rest down,5.3036,34.5499,0.3707,0.0188,0.0332,27.2828,10.426063,-117.171715,s,v
+Nemichthyidae,nemichthyidae,10:07:25,2:07:25,n,931,OY09,C5b,no eddy,rest down,5.2444,34.5497,0.5804,,0.0428,27.27,10.818648,-116.238845,s,v
+Serrivomeridae,serrivomeridae,16:32:38,8:32:38,n,942,OY35,C5e,no eddy,rest down,4.6355,34.5612,0.7757,,,27.3687,10.312733,-117.199522,s,v
+Nemichthyidae,nemichthyidae,7:45:42,23:45:42,n,965,OY39,C5e,no eddy,rest up,4.4721,34.5605,0.7042,,,27.3868,10.982789,-116.226609,s,v
+Serrivomeridae,serrivomeridae,12:03:59,4:03:59,n,987,OY38,C5e,no eddy,rest down,4.5329,34.5574,0.6723,,,27.2547,11.016011,-116.134287,s,v
+Serrivomeridae,serrivomeridae,10:08:21,2:08:21,d,994,OY19,C5b,eddy end,rest up,4.8105,34.5526,0.5869,0.0156,0.0304,27.3328,10.378096,-117.188049,s,v
+Serrivomeridae,serrivomeridae,9:51:44,1:51:44,d,1000,OY37,C5e,no eddy,rest up,4.3917,34.5626,0.6673,,,27.3966,10.99714,-116.14161,s,v
+Serrivomeridae,serrivomeridae,16:09:03,8:09:03,n,1001,OY19,C5b,eddy end,rest up,4.895,34.5529,0.5885,0.0188,0.0245,27.3326,10.361705,-117.171603,s,v
+Serrivomeridae,serrivomeridae,10:09:43,2:09:43,n,1001,OY35,C5e,no eddy,rest up,4.4863,34.563,0.8606,,,27.3893,10.323038,-117.201273,s,v
+Serrivomeridae,stemonidium hypomelas,4:27:31,20:27:31,n,1001,OY19,C5b,eddy end,rest up,4.8968,34.5523,0.584,0.0206,0.0312,27.3322,10.361701,-117.171589,s,v
+Nemichthyidae,nemichthyidae,8:16:02,0:16:02,d,1010,OY18,C5b,eddy end,rest horizontal,4.8895,34.5536,0.6145,0.0206,0.035,27.334,10.334632,-117.194595,s,v
+Serrivomeridae,serrivomeridae,19:54:11,11:54:11,d,1014,OY18,C5b,eddy end,rest up,4.859,34.5529,0.6214,0.0224,0.0219,27.337,10.334484,-117.194534,s,v
+Serrivomeridae,serrivomeridae,8:02:22,0:02:22,n,1036,OY16,C5b,eddy,rest up,4.7785,34.5543,0.6698,0.0197,0.0292,27.3153,10.42606,-117.171651,s,v
+Serrivomeridae,serrivomeridae,10:11:06,2:11:06,d,1047,OY32,C5e,no eddy,rest up,4.22831,34.5694,0.9883,0.04161,0.0281,27.4318,10.331218,-117.172555,s,v
+Serrivomeridae,serrivomeridae,11:49:15,3:49:15,n,1050,OY16,C5b,eddy,rest up,4.7274,34.5555,0.7076,0.0174,0.0263,27.3472,10.426797,-117.176379,s,v
+Serrivomeridae,serrivomeridae,15:25:57,7:25:57,n,1067,OY15,C5b,eddy begin,rest down,4.6832,34.5544,0.1599,0.0169,0.0312,27.358,10.4285,-117.14783,s,v
+Nemichthyidae,nemichthyidae,9:15:53,1:15:53,n,200,OY38,C5e,no eddy,swim down,11.4328,34.7703,0.1007,,,27.4799,11.00793,-116.14723,r,v
+Serrivomeridae,serrivomeridae,23:23:13,15:23:13,n,247,OY17,C5b,eddy,rest down,1.7377,34.6694,2.5862,0.0211,0.0353,27.7272,10.4285,-117.14783,r,v
+Nemichthyidae,nemichthyidae,7:25:00,23:25:00,n,262,OY15,C5b,eddy begin,swim down,11.2257,34.7545,0.5185,0.0215,0.0335,26.5432,10.4285,-117.14783,r,v
+Nemichthyidae,nemichthyidae,7:24:26,23:24:26,n,299,OY35,C5e,no eddy,rest horizontal,10.2341,34.7079,0.0902,,,26.6836,10.316313,-117.201188,r,v
+Serrivomeridae,serrivomeridae,4:26:53,20:26:53,n,309,OY16,C5b,eddy,rest down,10.8961,34.7382,0.4857,0.0183,0.0277,26.5904,10.436398,-117.167517,r,v
+Nemichthyidae,nemichthyidae,23:39:53,15:39:53,n,317,OY28,C5e,no eddy,swim down,10.1892,34.6999,0.063,0.0485,0.0364,26.6813,10.334377,-117.198594,r,v
+Nemichthyidae,nemichthyidae,11:59:44,3:59:44,n,350,OY16,C5b,eddy,rest down,10.5919,34.7286,0.3317,0.0211,0.0266,26.6372,10.436384,-117.167499,r,v
+Nemichthyidae,nemichthyidae,4:20:35,20:20:35,n,350,OY16,C5b,eddy,swim down,10.594,34.7292,0.3342,0.0192,0.0295,26.6373,10.427379,-117.171098,r,v
+Nemichthyidae,nemichthyidae,8:19:49,0:19:49,n,351,OY15,C5b,eddy begin,swim down,10.4651,34.5503,0.2813,0.0174,0.0326,26.655,10.4285,-117.14783,r,v
+Nemichthyidae,nemichthyidae,4:39:42,20:39:42,d,437,OY36,C5e,no eddy,rest horizontal,7.8842,34.59,0.0559,,,26.9764,10.37519,-117.17279,r,v
+Nemichthyidae,nemichthyidae,4:34:31,20:34:31,d,447,OY36,C5e,no eddy,rest horizontal,7.805,34.5717,0.0455,,,26.9738,10.37516,-117.17277,r,v
+Nemichthyidae,nemichthyidae,13:11:10,5:11:10,d,534,OY33,C5e,no eddy,rest horizontal,7.18981,34.56001,0.0558,0.0714,0.031,27.0457,10.32435,-117.1764,r,v
+Serrivomeridae,serrivomeridae,11:16:12,3:16:12,d,565,OY35,C5e,no eddy,rest up,6.9312,34.5592,0.0595,,,27.0813,10.312919,-117.207447,r,v
+Nemichthyidae,nemichthyidae,21:25:54,13:25:54,n,578,OY16,C5b,eddy,rest horizontal,8.0018,34.5892,0.0502,0.0188,0.048,26.9509,10.426481,-117.176448,r,v
+Serrivomeridae,serrivomeridae,2:49:16,18:49:16,d,592,OY18,C5b,eddy end,rest up,7.71,34.5795,0.0444,0.0197,0.0364,26.9865,10.344529,-117.194299,r,v
+Serrivomeridae,serrivomeridae,8:35:28,0:35:28,n,601,OY35,C5e,no eddy,rest up,6.5078,34.5754,0.0708,,,27.1511,10.315453,-117.200173,r,v
+Serrivomeridae,serrivomeridae,17:13:29,9:13:29,d,610,OY18,C5b,eddy end,rest down,7.5088,34.573,0.0559,0.0183,0.0352,27.0105,10.34453,-117.194311,r,v
+Serrivomeridae,serrivomeridae,12:34:59,4:34:59,n,634,OY19,C5b,eddy end,rest up,7.1736,34.5644,0.2259,0.0224,0.03,27.0427,10.354073,-117.161617,r,v
+Nemichthyidae,nemichthyidae,8:36:43,0:36:43,n,715,OY19,C5b,eddy end,rest down,6.5013,34.5556,0.0833,0.0238,0.0236,27.1363,10.354483,-117.162093,r,h
+Nemichthyidae,nemichthyidae,20:30:36,12:30:36,n,720,OY32,C5e,no eddy,swim horizontal,5.8212,34.552,0.1929,0.0439,0.02081,27.2208,10.340003,-117.160452,r,h
+Nemichthyidae,nemichthyidae,20:31:10,12:31:10,d,725,OY35,C5e,no eddy,rest horizontal,5.9447,34.555,0.1599,,,27.208,10.309246,-117.207769,r,h
+Nemichthyidae,nemichthyidae,6:16:25,22:16:25,n,732,OY28,C5e,no eddy,rest horizontal,5.7468,34.5527,0.2373,0.0558,0.0341,27.2311,10.335097,-117.19881,r,h
+Nemichthyidae,nemichthyidae,6:15:55,22:15:55,d,736,OY39,C5e,no eddy,swim down,5.6831,34.5508,0.1702,,,27.237,10.980223,-116.220452,r,h
+Nemichthyidae,nemichthys,22:17:58,14:17:58,d,743,OY39,C5e,no eddy,swim down,5.6434,34.552,0.1542,,,27.2494,10.980544,-116.221477,r,h
+Nemichthyidae,nemichthyidae,7:08:02,23:08:02,d,745,OY21,C5b,eddy end,rest down,6.1115,34.5416,0.1489,0.0206,0.0211,27.1762,10.99256667,-116.3577,r,h
+Nemichthyidae,nemichthyidae,14:56:49,6:56:49,d,746,OY38,C5e,no eddy,rest up,5.6841,34.5319,0.1969,,,27.4801,11.016071,-116.134213,r,h
+Nemichthyidae,nemichthyidae,8:07:20,0:07:20,n,753,OY38,C5e,no eddy,rest up,5.7049,34.5463,0.1897,,,26.5117,11.006374,-116.148307,r,h
+Serrivomeridae,serrivomeridae,16:49:14,8:49:14,d,753,OY39,C5e,no eddy,rest down,5.5879,34.5522,0.1595,,,27.2502,10.98055,-116.221326,r,h
+Nemichthyidae,nemichthyidae,5:31:19,21:31:19,d,754,OY39,C5e,no eddy,swim down,5.5989,34.5498,0.1647,,,27.2471,10.9805,-116.221157,r,h
+Serrivomeridae,serrivomeridae,23:17:31,15:17:31,n,754,OY20,C5b,eddy end,rest down,5.9541,34.5416,0.1756,0.0211,0.0309,27.2721,10.856885,-116.150551,r,h
+Serrivomeridae,serrivomeridae,5:40:05,21:40:05,d,754,OY39,C5e,no eddy,rest down,5.6005,34.5502,0.1779,,,27.2478,10.980477,-116.221069,r,h
+Serrivomeridae,serrivomeridae,10:59:34,2:59:34,d,755,OY36,C5e,no eddy,swim down,5.3361,34.5538,0.3876,,,27.2902,10.37504,-117.17303,r,h
+Nemichthyidae,nemichthys,20:04:35,12:04:35,d,756,OY19,C5b,eddy end,rest down,6.1943,34.551,0.1105,0.0179,0.0286,27.173,10.378196,-117.190348,r,h
+Serrivomeridae,serrivomeridae,6:25:45,22:25:45,d,757,OY35,C5e,no eddy,rest up,5.7259,34.5547,0.2324,,,27.2356,10.309306,-117.207473,s,h
+Serrivomeridae,serrivomeridae,14:08:39,6:08:39,n,761,OY15,C5b,eddy begin,rest up,10.3227,34.7155,0.7401,0.022,0.0255,27.233,10.4285,-117.14783,s,h
+Serrivomeridae,serrivomeridae,1:03:23,17:03:23,n,764,OY34,C5e,no eddy,rest down,5.4515,34.5538,0.3373,,,27.2681,10.36979,-117.17754,s,h
+Serrivomeridae,serrivomeridae,14:54:14,6:54:14,d,1703,OY26,C5e,no eddy,swim up,2.6177,34.6243,1.7775,0.0403,0.0234,27.6196,10.326106,-117.171062,s,h
