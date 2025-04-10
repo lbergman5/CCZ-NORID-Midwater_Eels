@@ -1,0 +1,20 @@
+Transect,Transect_duration,Depth,Salinity,Temperature,Dissolved oxygen,day/night,depth_group,Shannon_H,Hill_Shannon_estimated + SE,Hill_Shannon_observed
+transect1,15,200,34.7788,11.3781,0.1194,d,shallower_day,0,1,1
+transect2,15,200,34.7233,10.5183,0.245,n,shallower_night,1.532,4.10+1.44,3.313725
+transect3,15,200,34.7788,11.96,0.4934,d,shallower_day,0,1 + 0,1
+transect4,15,200,34.7831,11.9677,0.4838,n,shallower_night,0.9431,3.37+1.13,2
+transect5,15,350,34.6768,9.7821,0.0549,d,shallower_day,1.43,4.50+1.25,3.333333
+transect6,15,350,34.7242,10.5533,0.3368,n,shallower_night,0.985,1.8+0.46,1.757475
+transect7,15,350,34.7204,10.4512,0.2935,d,shallower_day,0.6109,1.53+0.09,1.526737
+transect8,15,850,34.5572,5.056,0.5276,d,deeper_day,0.8032,2.51+2.01,1.889882
+transect9,15,850,34.5554,5.0952,0.5063,d,deeper_day,0,1 + 0,1
+transect10,15,850,34.556,5.0084,0.5672,n,deeper_night,1.401,4.78 + 1.56,3.363586
+transect11,15,850,34.5569,5.0842,0.5155,n,deeper_night,1.29,4.89 + 2.23,2.828427
+transect12,15,850,34.5508,5.681,0.2357,d,deeper_day,1.245,3.68 + 0.74,3.183722
+transect13,15,850,34.5506,5.7299,0.2288,n,deeper_night,0.9272,2.54 + 0.35,2.374389
+transect14,15,1000,34.5659,4.4181,0.9009,n,deeper_night,0,1 + 0,1
+transect15,15,1000,34.5518,4.7922,0.671,d,deeper_day,0,1 + 0,1
+transect16,15,1000,34.5526,4.8414,0.6237,d,deeper_day,1.58,5.60 + 2.48,3.779763
+transect17,15,1200,34.5696,4.0715,1.0206,n,deeper_night,1.29,4.89+3.11,2.828427
+transect18,15,1500,34.6079,3.0767,1.5184,n,deeper_night,0,1 + 0,1
+transect19,15,1500,34.5956,3.2552,1.4088,n,deeper_night,0,1 + 0,1
